@@ -1,2 +1,6 @@
 Billed-app-FR-Back
 Billed-app-FR-Front/node_modules
+.DS_Store
+.live-server.json
+babel.config.cjs
+setup-jest.js
